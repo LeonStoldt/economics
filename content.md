@@ -162,12 +162,15 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Effizienz von Märkten
 
+**Konsumentenrente:** Zahlungsbereitschaft - bezahlter Betrag
 
+**Produzentenrente:** 
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
+eyJoaXN0b3J5IjpbLTEyMDU2NTkzODUsMTY3NTkxMjA3MSwxNj
+IyNzU3NDczXX0=
 -->
