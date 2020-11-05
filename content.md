@@ -170,10 +170,12 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 [![Produzentenrente](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produzentenrente.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produzentenrente.png)
 
+**Effizienz**
+
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDEwOTczNCwtNjc3MDk2Mjk5LDE2Nz
-U5MTIwNzEsMTYyMjc1NzQ3M119
+eyJoaXN0b3J5IjpbMTA4ODg1ODU0NCwxNjc0MTA5NzM0LC02Nz
+cwOTYyOTksMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
 -->
