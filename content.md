@@ -28,6 +28,10 @@
 
 **Markt:** Gruppe aus Käufern und Verkäufern einer bestimmten Ware / Dienstleistung.
 
+**absoluter Vorteil:** Eine Person kann ein Gut mit weniger Inputs produzieren
+
+**komperativer Vorteil:** Eine Person hat geringere Opportunitätskosten
+
 ### Kreislaufdiagramm
 Zeigt Güter- und Geldfluss zwischen Haushalten und Unternehmen.
 
@@ -109,6 +113,50 @@ $$E = \frac{\text{prozentuale Änderung der Nachfrage}}{\text{prozentuale Einkom
 -	**Preiselastizität des Angebots** $P_A$ beschreibt die prozentuale Veränderung des Angebots aufgrund der Preisveränderung
 
 $$P_A = \frac{\text{prozentuale Änderung des Angebots}}{\text{prozentuale Preisänderung}}$$
+
+### Produktionsfunktion
+
+-	zeigt das Verhältnis zwischen Inputmenge und Produktionsmenge
+-	**Grenzprodukt** ist die Ableitung einer Funktion (hier der Produktionsfunktion)
+
+*Beispiel:*
+[![Produktionsfunktion](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produktionsfunktion.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produktionsfunktion.png)
+
+### Gesamtkostenkurve
+
+-	**Fixe Kosten** verändern sich nicht mit der Produktionsmenge (*im Beispiel: 30€*)
+-	**Variable Kosten** verändern sich mit der Produktionsmenge
+
+*Beispiel:*
+[![Gesamtkostenkurve](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Gesamtkostenkurve.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Gesamtkostenkurve.png)
+
+**Grenzkosten** $GK$ messen die Zunahme der Gesamtkosten pro Menge.
+
+$$GK = \frac{\text{Änderung der Gesamtkosten}}{\text{Änderung der Menge}} = \frac{\Delta K}{\Delta Q}$$
+
+[![GKundDK](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/GKundDK.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/GKundDK.png)
+
+Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken diese und sobald die Grenzkosten über den durchschnittlichen Gesamtkosten liegen steigen diese. Der Schnittpunkt bestimmt den maximalen Gewinn.
+
+-	**DFK** = Durchschnittliche Fixe Kosten
+-	**DVK** = Durchschnittliche Variable Kosten
+-	**DK** = Durchschnittliche Gesamtkosten
+
+### Skalenbeträge
+
+|| economics of scale | disconomics of scale | constant returns to scale |
+|---|:---:|:---:|:---:|
+| Skalenbeträge | zunehmend | abnehmend | konstant |
+| bei steigender Produktionsmenge ... | sinken die langfristigen Kosten | steigen die langfristigen Kosten | bleiben die langfristigen Kosten konstant |
+
+### Gewinnmaximierung
+
+-	Gesamterlös (Gesamtumsatz) $E = P * Q$
+-	Grenzerlös (Grenzumsatz) $GE = \frac{\Delta E}{\Delta Q}$
+
+| Produktionsmenge ausweiten | Produktionsmenge reduzieren | Gewinn ist beim Maximum |
+|:---:|:---:|:---:|
+| $GE \gt GK$ | $GE \lt GK$ | $GE = GK$ |
 
 ## Effizienz von Märkten
 
