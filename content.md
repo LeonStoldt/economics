@@ -32,6 +32,8 @@
 
 **komperativer Vorteil:** Eine Person hat geringere Opportunitätskosten
 
+**Wohlfahrt:** Deckung der Grundbefürfnisse von Menschen
+
 ### Kreislaufdiagramm
 Zeigt Güter- und Geldfluss zwischen Haushalten und Unternehmen.
 
@@ -167,5 +169,5 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjc1NzQ3M119
+eyJoaXN0b3J5IjpbMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
 -->
