@@ -160,6 +160,12 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Effizienz von Märkten
 
+
+
+
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYyMjc1NzQ3M119
+-->
