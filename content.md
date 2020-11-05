@@ -164,13 +164,13 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 **Konsumentenrente:** Zahlungsbereitschaft - bezahlter Betrag
 
-**Produzentenrente:** 
+**Produzentenrente:** erhaltener Betrag - Produktionskosten
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU2NTkzODUsMTY3NTkxMjA3MSwxNj
-IyNzU3NDczXX0=
+eyJoaXN0b3J5IjpbLTY3NzA5NjI5OSwxNjc1OTEyMDcxLDE2Mj
+I3NTc0NzNdfQ==
 -->
