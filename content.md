@@ -170,12 +170,12 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 [![Produzentenrente](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produzentenrente.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produzentenrente.png)
 
-**Effizienz**
+(Markt-)**Effizienz** ist die Maximierung aller Renten. (Marktgleichgewicht sorgt für Gleichgewicht der Konsumenten- und Produzentenrente)
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODg1ODU0NCwxNjc0MTA5NzM0LC02Nz
+eyJoaXN0b3J5IjpbMTI3MjUyNjY5MCwxNjc0MTA5NzM0LC02Nz
 cwOTYyOTksMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
 -->
