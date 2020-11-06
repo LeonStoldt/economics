@@ -202,13 +202,14 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 #### Subventionen
 
--	**Subn**
+-	**Subventionen** sind Zahlungen an (Ver-)Käufer mit dem Ziel, EInkommen zu erhöhen oder Produktionskosten zu senken
+-	Subventionen sorgen für eine Änderung des Marktgleichgewichts
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3MzQxODA2LC0yMjYzNzI1MDksMTEwNT
-IzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQs
-LTY3NzA5NjI5OSwxNjc1OTEyMDcxLDE2MjI3NTc0NzNdfQ==
+eyJoaXN0b3J5IjpbOTEwODQ4MTAsLTIyNjM3MjUwOSwxMTA1Mj
+MyOTY5LDk3OTg0MzE5LDEyNzI1MjY2OTAsMTY3NDEwOTczNCwt
+Njc3MDk2Mjk5LDE2NzU5MTIwNzEsMTYyMjc1NzQ3M119
 -->
