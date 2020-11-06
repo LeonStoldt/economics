@@ -253,15 +253,18 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 -	Je höher der Wert, desto stärker ausgeprägt ist die Ungleichheit
 
 -	**Transitorisches Einkommen:** schwankt durch temporären Veränderungen (*Beispiel:* Kurzarbeit)
--	**Permanentes Einkommen:** durchschnittliches, reguläres Einkommen (inkl. transitorisches Ein
+-	**Permanentes Einkommen:** durchschnittliches, reguläres Einkommen (inkl. transitorisches Einkommen)
+
+### Armut
+-
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTI5MjAsMTU1MzQ0MzAzOCw2NTE0NT
-Y2NzIsMjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwt
-NjM0MzMzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1Mj
-IwMjgxMywxNTQ5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0
-LC0xNzE4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNj
-AzNTI3MDk4LC0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1MjMy
-OTY5XX0=
+eyJoaXN0b3J5IjpbLTE4NTM2OTI5NTcsMTU1MzQ0MzAzOCw2NT
+E0NTY2NzIsMjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0
+OCwtNjM0MzMzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMT
+M1MjIwMjgxMywxNTQ5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2
+MDM0LC0xNzE4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC
+0xNjAzNTI3MDk4LC0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1
+MjMyOTY5XX0=
 -->
