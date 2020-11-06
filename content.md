@@ -245,15 +245,16 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 
 ### Einkommensverteilung der Bevölkerung
 
--	
+-	**Lorenzkurve**
+[![Lorenzkurve](https://upload.wikimedia.org/wikipedia/commons/8/85/Lorenz-Kurve_Beispiel.svg)](https://upload.wikimedia.org/wikipedia/commons/8/85/Lorenz-Kurve_Beispiel.svg)
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMyNjEwMSw2NTE0NTY2NzIsMjA4Nz
-AyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5
-LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNT
-Q5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1
-NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC
-0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OTg0
-MzE5XX0=
+eyJoaXN0b3J5IjpbMjkxOTc1MTEyLDY1MTQ1NjY3MiwyMDg3MD
+I0NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02MzQzMzM5Njks
+LTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAyODEzLDE1ND
+k0NzI2ODQsMTUyNzM4NTU5OCwzNTA4MDYwMzQsLTE3MTgzODU1
+MzQsNzA5MTgwODE3LC04NTM5OTE0MzgsLTE2MDM1MjcwOTgsLT
+I2MTg2MjI0MSwtMjI2MzcyNTA5LDExMDUyMzI5NjksOTc5ODQz
+MTldfQ==
 -->
