@@ -175,7 +175,7 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 ### politische Auswirkungen auf den Markt
 
 -	**Höchstpreise** sind gesetzliche Preise, zu dem ein Produkt maximal verkauft werden darf.
--	**Mindestpreise**
+-	**Mindestpreise** sind gesetzliche Preise, zu dem ein Produkt mindestens verkauft werden darf.
 -	****
 -	****
 
@@ -184,7 +184,7 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1MDgzMjA0LDEyNzI1MjY2OTAsMTY3ND
-EwOTczNCwtNjc3MDk2Mjk5LDE2NzU5MTIwNzEsMTYyMjc1NzQ3
-M119
+eyJoaXN0b3J5IjpbLTE3NDEwMjQzMTksMTI3MjUyNjY5MCwxNj
+c0MTA5NzM0LC02NzcwOTYyOTksMTY3NTkxMjA3MSwxNjIyNzU3
+NDczXX0=
 -->
