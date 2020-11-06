@@ -286,9 +286,11 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 $$BIP = C + I + G + NX$$
 
 -	**realer BIP:** bewertet die Produktion von Gütern und Dienstleistungen zu den Marktpreisen des Vorjahres
--	**nomialer BIP:** bewertet den Output von Gütern und Dienstleistungen zu lauf
+-	**nomialer BIP:** bewertet den Output von Gütern und Dienstleistungen zu laufenden Marktpreisen
+-	**BIP-Deflator:** zeigt das Verhältnis der Preiserhöhung
+-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU3MDk0MzksLTE5MTk2NzgwNzIsMj
+eyJoaXN0b3J5IjpbLTE5ODE5NDUyMzYsLTE5MTk2NzgwNzIsMj
 A4OTg4NzI2NCwxODU1NTA0MDksMTU1MzQ0MzAzOCw2NTE0NTY2
 NzIsMjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNj
 M0MzMzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIw
