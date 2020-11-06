@@ -241,13 +241,15 @@ Je mehr Arbeitskräfte eingesetzt werden, umso flacher wird die Produktionsfunkt
 
 Angebot und Nachfrage des Arbeitsmarktes bestimmen den Gleichgewichtslohnsatz.
 
+Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
+
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwND
-Q1ODY0OCwtNjM0MzMzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1
-OCwtMTM1MjIwMjgxMywxNTQ5NDcyNjg0LDE1MjczODU1OTgsMz
-UwODA2MDM0LC0xNzE4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkx
-NDM4LC0xNjAzNTI3MDk4LC0yNjE4NjIyNDEsLTIyNjM3MjUwOS
-wxMTA1MjMyOTY5LDk3OTg0MzE5LDEyNzI1MjY2OTAsMTY3NDEw
-OTczNF19
+eyJoaXN0b3J5IjpbNjUxNDU2NjcyLDIwODcwMjQ1NiwtMTkzMD
+UwNjQ0NSw1MDQ0NTg2NDgsLTYzNDMzMzk2OSwtNzgwMTA5MDc4
+LDE4Mzk3NjI4NTgsLTEzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNT
+I3Mzg1NTk4LDM1MDgwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4
+MTcsLTg1Mzk5MTQzOCwtMTYwMzUyNzA5OCwtMjYxODYyMjQxLC
+0yMjYzNzI1MDksMTEwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2
+NjkwXX0=
 -->
