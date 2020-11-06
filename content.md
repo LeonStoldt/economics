@@ -248,9 +248,11 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 -	**Lorenzkurve**
 [![Lorenzkurve](https://upload.wikimedia.org/wikipedia/commons/8/85/Lorenz-Kurve_Beispiel.svg)](https://upload.wikimedia.org/wikipedia/commons/8/85/Lorenz-Kurve_Beispiel.svg)
 
+-	**Gini-Koeffizient** misst das Verhältnis zwischen der Ideallinie und Lorenzkurve
+
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxOTc1MTEyLDY1MTQ1NjY3MiwyMDg3MD
+eyJoaXN0b3J5IjpbNTg1MDEwMzYwLDY1MTQ1NjY3MiwyMDg3MD
 I0NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02MzQzMzM5Njks
 LTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAyODEzLDE1ND
 k0NzI2ODQsMTUyNzM4NTU5OCwzNTA4MDYwMzQsLTE3MTgzODU1
