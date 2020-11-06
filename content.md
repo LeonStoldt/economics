@@ -235,13 +235,15 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 Die Produktionsfunktion zeigt den Zusammenhang zwischen Inputmenge und der Outputmenge.
 Je mehr Arbeitskräfte eingesetzt werden, umso flacher wird die Produktionsfunktion.
 
+
+
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NDU4NjQ4LC02MzQzMzM5NjksLTc4MD
-EwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAyODEzLDE1NDk0NzI2
-ODQsMTUyNzM4NTU5OCwzNTA4MDYwMzQsLTE3MTgzODU1MzQsNz
-A5MTgwODE3LC04NTM5OTE0MzgsLTE2MDM1MjcwOTgsLTI2MTg2
-MjI0MSwtMjI2MzcyNTA5LDExMDUyMzI5NjksOTc5ODQzMTksMT
-I3MjUyNjY5MCwxNjc0MTA5NzM0LC02NzcwOTYyOTksMTY3NTkx
-MjA3MV19
+eyJoaXN0b3J5IjpbMTUxOTY5MDEwMCw1MDQ0NTg2NDgsLTYzND
+MzMzk2OSwtNzgwMTA5MDc4LDE4Mzk3NjI4NTgsLTEzNTIyMDI4
+MTMsMTU0OTQ3MjY4NCwxNTI3Mzg1NTk4LDM1MDgwNjAzNCwtMT
+cxODM4NTUzNCw3MDkxODA4MTcsLTg1Mzk5MTQzOCwtMTYwMzUy
+NzA5OCwtMjYxODYyMjQxLC0yMjYzNzI1MDksMTEwNTIzMjk2OS
+w5Nzk4NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQsLTY3NzA5
+NjI5OV19
 -->
