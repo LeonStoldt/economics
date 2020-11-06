@@ -228,16 +228,16 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	Z.B. Festlegung von Emmisionsniveaus
 -	Steuern und Subventionen
 -	Z.B. Pigou-Steuern zur Korrektur negativer Externalitäten
--	Staatsversagen liegt vor, wenn ökonomisch ineffiziente E
+-	Staatsversagen liegt vor, wenn ökonomisch ineffiziente Entscheidungen getroffen werden
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYzODg5NTgsMzUwODA2MDM0LC0xNz
-E4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3
-MDk4LC0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1MjMyOTY5LD
-k3OTg0MzE5LDEyNzI1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2
-Mjk5LDE2NzU5MTIwNzEsMTYyMjc1NzQ3M119
+eyJoaXN0b3J5IjpbMTUyNzM4NTU5OCwzNTA4MDYwMzQsLTE3MT
+gzODU1MzQsNzA5MTgwODE3LC04NTM5OTE0MzgsLTE2MDM1Mjcw
+OTgsLTI2MTg2MjI0MSwtMjI2MzcyNTA5LDExMDUyMzI5NjksOT
+c5ODQzMTksMTI3MjUyNjY5MCwxNjc0MTA5NzM0LC02NzcwOTYy
+OTksMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
 -->
