@@ -230,14 +230,16 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	Z.B. Pigou-Steuern zur Korrektur negativer Externalitäten
 -	Staatsversagen liegt vor, wenn ökonomisch ineffiziente Entscheidungen getroffen werden
 
-
 ## Arbeitsmarkt und Handel
+
+
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzM4NTU5OCwzNTA4MDYwMzQsLTE3MT
-gzODU1MzQsNzA5MTgwODE3LC04NTM5OTE0MzgsLTE2MDM1Mjcw
-OTgsLTI2MTg2MjI0MSwtMjI2MzcyNTA5LDExMDUyMzI5NjksOT
-c5ODQzMTksMTI3MjUyNjY5MCwxNjc0MTA5NzM0LC02NzcwOTYy
-OTksMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
+eyJoaXN0b3J5IjpbMTU0OTQ3MjY4NCwxNTI3Mzg1NTk4LDM1MD
+gwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4MTcsLTg1Mzk5MTQz
+OCwtMTYwMzUyNzA5OCwtMjYxODYyMjQxLC0yMjYzNzI1MDksMT
+EwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3
+MzQsLTY3NzA5NjI5OSwxNjc1OTEyMDcxLDE2MjI3NTc0NzNdfQ
+==
 -->
