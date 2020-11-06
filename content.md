@@ -289,8 +289,9 @@ $$BIP = C + I + G + NX$$
 -	**nomialer BIP:** bewertet den Output von Gütern und Dienstleistungen zu laufenden Marktpreisen
 -	**BIP-Deflator:** zeigt das Verhältnis der Preiserhöhung
 -	$BIP-Deflator = \frac{nomiales BIP}{reales BIP}$
+-	**Pro-Kopf-BIP:** gibt das durchschnittliche Einkommen der Bevölkerung und somit den Lebensstandard an
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDA4NDk2MCwtMTkxOTY3ODA3MiwyMD
+eyJoaXN0b3J5IjpbMTI4NjQ1MDA0MywtMTkxOTY3ODA3MiwyMD
 g5ODg3MjY0LDE4NTU1MDQwOSwxNTUzNDQzMDM4LDY1MTQ1NjY3
 MiwyMDg3MDI0NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02Mz
 QzMzM5NjksLTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAy
