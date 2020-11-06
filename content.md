@@ -172,10 +172,19 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 (Markt-)**Effizienz** ist die Maximierung aller Renten. (Marktgleichgewicht sorgt für Gleichgewicht der Konsumenten- und Produzentenrente)
 
+### politische Auswirkungen auf den Markt
+
+-	**Höchstpreise** sind gesetzliche Preise, zu dem ein Produkt maximal verkauft werden darf.
+-	**Mindestpreise**
+-	****
+-	****
+
+
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjUyNjY5MCwxNjc0MTA5NzM0LC02Nz
-cwOTYyOTksMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
+eyJoaXN0b3J5IjpbNTU1MDgzMjA0LDEyNzI1MjY2OTAsMTY3ND
+EwOTczNCwtNjc3MDk2Mjk5LDE2NzU5MTIwNzEsMTYyMjc1NzQ3
+M119
 -->
