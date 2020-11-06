@@ -122,7 +122,7 @@ $$P_A = \frac{\text{prozentuale Änderung des Angebots}}{\text{prozentuale Preis
 -	**Grenzprodukt** ist die Ableitung einer Funktion (hier der Produktionsfunktion)
 
 *Beispiel:*
-[![Produktionsfunktion](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produktionsfunktion.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produktionsfunktion.png)
+[![Produktionsfunktion](https://www.rechnungswesen-verstehen.de/upload/produktionsfunktion.jpg)](https://www.rechnungswesen-verstehen.de)
 
 ### Gesamtkostenkurve
 
@@ -238,10 +238,10 @@ Die Produktionsfunktion zeigt den Zusammenhang zwischen Inputmenge und der Outpu
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODcyMjIyNTYsLTEzNTIyMDI4MTMsMT
-U0OTQ3MjY4NCwxNTI3Mzg1NTk4LDM1MDgwNjAzNCwtMTcxODM4
-NTUzNCw3MDkxODA4MTcsLTg1Mzk5MTQzOCwtMTYwMzUyNzA5OC
-wtMjYxODYyMjQxLC0yMjYzNzI1MDksMTEwNTIzMjk2OSw5Nzk4
-NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5OS
-wxNjc1OTEyMDcxLDE2MjI3NTc0NzNdfQ==
+eyJoaXN0b3J5IjpbMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNT
+Q5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1
+NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC
+0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OTg0
+MzE5LDEyNzI1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5LD
+E2NzU5MTIwNzEsMTYyMjc1NzQ3M119
 -->
