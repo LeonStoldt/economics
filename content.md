@@ -130,7 +130,7 @@ $$P_A = \frac{\text{prozentuale Änderung des Angebots}}{\text{prozentuale Preis
 -	**Variable Kosten** verändern sich mit der Produktionsmenge
 
 *Beispiel:*
-[![Gesamtkostenkurve](https://www.thoughtco.com/thmb/7ZJByQl33xj24nwtN465vUkEKFU=/266x247/filters:fill(auto,1)/cost-curves-1-56a27d933df78cf77276a44d.jpg)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Gesamtkostenkurve.png)
+[![Gesamtkostenkurve](https://www.economicsonline.co.uk/Business%20economics%20graphs/Total-costs.png)](https://www.economicsonline.co.uk)
 
 **Grenzkosten** $GK$ messen die Zunahme der Gesamtkosten pro Menge.
 
@@ -238,7 +238,7 @@ Die Produktionsfunktion zeigt den Zusammenhang zwischen Inputmenge und der Outpu
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjgxMjkwMywtNzgwMTA5MDc4LDE4Mz
+eyJoaXN0b3J5IjpbMTQxMjIzMTMyOSwtNzgwMTA5MDc4LDE4Mz
 k3NjI4NTgsLTEzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNTI3Mzg1
 NTk4LDM1MDgwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4MTcsLT
 g1Mzk5MTQzOCwtMTYwMzUyNzA5OCwtMjYxODYyMjQxLC0yMjYz
