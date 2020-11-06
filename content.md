@@ -288,13 +288,13 @@ $$BIP = C + I + G + NX$$
 -	**realer BIP:** bewertet die Produktion von Gütern und Dienstleistungen zu den Marktpreisen des Vorjahres
 -	**nomialer BIP:** bewertet den Output von Gütern und Dienstleistungen zu laufenden Marktpreisen
 -	**BIP-Deflator:** zeigt das Verhältnis der Preiserhöhung
--	
+-	$BIP-Deflator = \frac{nomiales BIP}{reales BIP}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE5NDUyMzYsLTE5MTk2NzgwNzIsMj
-A4OTg4NzI2NCwxODU1NTA0MDksMTU1MzQ0MzAzOCw2NTE0NTY2
-NzIsMjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNj
-M0MzMzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIw
-MjgxMywxNTQ5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0LC
-0xNzE4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAz
-NTI3MDk4XX0=
+eyJoaXN0b3J5IjpbLTc3MDA4NDk2MCwtMTkxOTY3ODA3MiwyMD
+g5ODg3MjY0LDE4NTU1MDQwOSwxNTUzNDQzMDM4LDY1MTQ1NjY3
+MiwyMDg3MDI0NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02Mz
+QzMzM5NjksLTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAy
+ODEzLDE1NDk0NzI2ODQsMTUyNzM4NTU5OCwzNTA4MDYwMzQsLT
+E3MTgzODU1MzQsNzA5MTgwODE3LC04NTM5OTE0MzgsLTE2MDM1
+MjcwOThdfQ==
 -->
