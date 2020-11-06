@@ -222,15 +222,16 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	Externalitäten können die Wohlfahrt Dritter positiv oder negativ beeinflussen
 -	negative Externalitäten führen zu einer Überproduktion der optimalen Menge
 -	positive Externalitäten führen zu einer Unterproduktion der optimalen Menge
+-	
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgzODU1MzQsNzA5MTgwODE3LC04NT
-M5OTE0MzgsLTE2MDM1MjcwOTgsLTI2MTg2MjI0MSwtMjI2Mzcy
-NTA5LDExMDUyMzI5NjksOTc5ODQzMTksMTI3MjUyNjY5MCwxNj
-c0MTA5NzM0LC02NzcwOTYyOTksMTY3NTkxMjA3MSwxNjIyNzU3
-NDczXX0=
+eyJoaXN0b3J5IjpbNjA2MzI4OTE5LC0xNzE4Mzg1NTM0LDcwOT
+E4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC0yNjE4NjIy
+NDEsLTIyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OTg0MzE5LDEyNz
+I1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5LDE2NzU5MTIw
+NzEsMTYyMjc1NzQ3M119
 -->
