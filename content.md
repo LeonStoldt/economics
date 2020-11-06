@@ -252,15 +252,16 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 -	Wert des Gini-Koeffizienten liegt zwischen 0 und 1
 -	Je höher der Wert, desto stärker ausgeprägt ist die Ungleichheit
 
-
+-	**Transitorisches Einkommen:** schwankt durch temporären Veränderungen (*Beispiel:* Kurzarbeit)
+-	**Permanentes Einkommen:** durchschnittliches, reguläres Einkommen (inkl. transitorisches Ein
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MTQzNDE4LDE1NTM0NDMwMzgsNjUxND
-U2NjcyLDIwODcwMjQ1NiwtMTkzMDUwNjQ0NSw1MDQ0NTg2NDgs
-LTYzNDMzMzk2OSwtNzgwMTA5MDc4LDE4Mzk3NjI4NTgsLTEzNT
-IyMDI4MTMsMTU0OTQ3MjY4NCwxNTI3Mzg1NTk4LDM1MDgwNjAz
-NCwtMTcxODM4NTUzNCw3MDkxODA4MTcsLTg1Mzk5MTQzOCwtMT
-YwMzUyNzA5OCwtMjYxODYyMjQxLC0yMjYzNzI1MDksMTEwNTIz
-Mjk2OV19
+eyJoaXN0b3J5IjpbLTc5NTI5MjAsMTU1MzQ0MzAzOCw2NTE0NT
+Y2NzIsMjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwt
+NjM0MzMzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1Mj
+IwMjgxMywxNTQ5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0
+LC0xNzE4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNj
+AzNTI3MDk4LC0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1MjMy
+OTY5XX0=
 -->
