@@ -250,14 +250,15 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 
 -	**Gini-Koeffizient** misst das Verhältnis der Fläche zwischen der Ideallinie und Lorenzkurve zu der Gesamtfläche unter der Ideallinie (bzw. die Ungleichverteilung)
 -	Wert des Gini-Koeffizienten liegt zwischen 0 und 1
+-	Je höher der Wert, desto stärker ausgeprägt ist die Ungleichheit
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI5NTMzMTMsNjUxNDU2NjcyLDIwOD
-cwMjQ1NiwtMTkzMDUwNjQ0NSw1MDQ0NTg2NDgsLTYzNDMzMzk2
-OSwtNzgwMTA5MDc4LDE4Mzk3NjI4NTgsLTEzNTIyMDI4MTMsMT
-U0OTQ3MjY4NCwxNTI3Mzg1NTk4LDM1MDgwNjAzNCwtMTcxODM4
-NTUzNCw3MDkxODA4MTcsLTg1Mzk5MTQzOCwtMTYwMzUyNzA5OC
-wtMjYxODYyMjQxLC0yMjYzNzI1MDksMTEwNTIzMjk2OSw5Nzk4
-NDMxOV19
+eyJoaXN0b3J5IjpbMTU1MzQ0MzAzOCw2NTE0NTY2NzIsMjA4Nz
+AyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5
+LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNT
+Q5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1
+NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC
+0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OTg0
+MzE5XX0=
 -->
