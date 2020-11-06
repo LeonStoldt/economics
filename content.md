@@ -206,14 +206,16 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	Subventionen sorgen für eine Änderung des Marktgleichgewichts
 -	Eine Subvention verschiebt die Angebotskurve entsprechend nach unten, wodurch Käufer weniger Zahlen und Verkäufer mehr erhalten.
 
+#### Auswirkungen von Steuern auf die Nettowohlfahrt
 
+-	Steuern führen zu einem Nettowohlfahrtsverlust
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODMxMjU4MSwtMjYxODYyMjQxLC0yMj
-YzNzI1MDksMTEwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2Njkw
-LDE2NzQxMDk3MzQsLTY3NzA5NjI5OSwxNjc1OTEyMDcxLDE2Mj
-I3NTc0NzNdfQ==
+eyJoaXN0b3J5IjpbMjEyNzc1MjEwLC0yNjE4NjIyNDEsLTIyNj
+M3MjUwOSwxMTA1MjMyOTY5LDk3OTg0MzE5LDEyNzI1MjY2OTAs
+MTY3NDEwOTczNCwtNjc3MDk2Mjk5LDE2NzU5MTIwNzEsMTYyMj
+c1NzQ3M119
 -->
