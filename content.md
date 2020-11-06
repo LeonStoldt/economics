@@ -183,6 +183,7 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 [![Steuer-Angebot](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Angebot.jpg)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Angebot.jpg)
 -	Eine Besteuerung der Käufer sorgt für eine Reduzierung der Nachfragekurve, da die Zahlungsbereitschaft der Nachfrager sinkt:
 [![Steuer-Nachfrage](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Nachfrage.jpg)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Nachfrage.jpg)
+-	Steuern verringern Marktaktivitäten und den Umsatz eines Guts
 -	**Steuerinzidenz** gibt Auskunft über die Verteilung der Steuerlast
 
 
@@ -190,7 +191,7 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzU5MTU0NywxMTA1MjMyOTY5LDk3OT
+eyJoaXN0b3J5IjpbLTUwNzIzODE0MywxMTA1MjMyOTY5LDk3OT
 g0MzE5LDEyNzI1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5
 LDE2NzU5MTIwNzEsMTYyMjc1NzQ3M119
 -->
