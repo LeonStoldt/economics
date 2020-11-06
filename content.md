@@ -272,12 +272,15 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 [![Zölle](https://upload.wikimedia.org/wikipedia/de/thumb/0/09/Einfuhrkontingent.PNG/500px-Einfuhrkontingent.PNG)](https://upload.wikimedia.org/wikipedia/de/thumb/0/09/Einfuhrkontingent.PNG/500px-Einfuhrkontingent.PNG)
 
 ## Makroökonomie
+
+#### Bruttoinlandsprodukt
+-	misst das Gesamteinkommen der Volkswirtschaft
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk2NzgwNzIsMjA4OTg4NzI2NCwxOD
-U1NTA0MDksMTU1MzQ0MzAzOCw2NTE0NTY2NzIsMjA4NzAyNDU2
-LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5LC03OD
-AxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNTQ5NDcy
-Njg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1NTM0LD
-cwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC0yNjE4
-NjIyNDFdfQ==
+eyJoaXN0b3J5IjpbNTcxMzY2MjAsLTE5MTk2NzgwNzIsMjA4OT
+g4NzI2NCwxODU1NTA0MDksMTU1MzQ0MzAzOCw2NTE0NTY2NzIs
+MjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0Mz
+MzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgx
+MywxNTQ5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNz
+E4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3
+MDk4XX0=
 -->
