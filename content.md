@@ -267,15 +267,17 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 -	führen zu steigenden lokalen Preisen
 -	verringern die Wohlfahrt der einheimischen Konsumenten
 -	erhöhen die Wohlfahrt der einheimischen Konsumenten
--	führen zu einem Nettowohlfahrtsverlust
+-	führen zu einem Nettowohlfahrtsverlust (D und F)
+
+[![Zölle](https://upload.wikimedia.org/wikipedia/de/thumb/0/09/Einfuhrkontingent.PNG/500px-Einfuhrkontingent.PNG)](https://upload.wikimedia.org/wikipedia/de/thumb/0/09/Einfuhrkontingent.PNG/500px-Einfuhrkontingent.PNG)
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg4ODQsMjA4OTg4NzI2NCwxODU1NT
-A0MDksMTU1MzQ0MzAzOCw2NTE0NTY2NzIsMjA4NzAyNDU2LC0x
-OTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5LC03ODAxMD
-kwNzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNTQ5NDcyNjg0
-LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1NTM0LDcwOT
-E4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC0yNjE4NjIy
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTk2NzgwNzIsMjA4OTg4NzI2NCwxOD
+U1NTA0MDksMTU1MzQ0MzAzOCw2NTE0NTY2NzIsMjA4NzAyNDU2
+LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5LC03OD
+AxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNTQ5NDcy
+Njg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1NTM0LD
+cwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC0yNjE4
+NjIyNDFdfQ==
 -->
