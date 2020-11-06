@@ -206,11 +206,14 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	Subventionen sorgen für eine Änderung des Marktgleichgewichts
 -	Eine Subvention verschiebt die Angebotskurve entsprechend nach unten, wodurch Käufer weniger Zahlen und Verkäufer mehr erhalten.
 
+
+
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTg2MjI0MSwtMjI2MzcyNTA5LDExMD
-UyMzI5NjksOTc5ODQzMTksMTI3MjUyNjY5MCwxNjc0MTA5NzM0
-LC02NzcwOTYyOTksMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
+eyJoaXN0b3J5IjpbLTQ2ODMxMjU4MSwtMjYxODYyMjQxLC0yMj
+YzNzI1MDksMTEwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2Njkw
+LDE2NzQxMDk3MzQsLTY3NzA5NjI5OSwxNjc1OTEyMDcxLDE2Mj
+I3NTc0NzNdfQ==
 -->
