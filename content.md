@@ -208,13 +208,13 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 #### Auswirkungen von Steuern auf die Nettowohlfahrt
 
--	Steuern führen zu einem Nettowohlfahrtsverlust
+-	Steuern führen zu einem Nettowohlfahrtsverlust durch das Übersteigen des Wohlfahrtsverlust von Konsumenten und Produzenten 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzc1MjEwLC0yNjE4NjIyNDEsLTIyNj
+eyJoaXN0b3J5IjpbLTEyNjU1MjYwLC0yNjE4NjIyNDEsLTIyNj
 M3MjUwOSwxMTA1MjMyOTY5LDk3OTg0MzE5LDEyNzI1MjY2OTAs
 MTY3NDEwOTczNCwtNjc3MDk2Mjk5LDE2NzU5MTIwNzEsMTYyMj
 c1NzQ3M119
