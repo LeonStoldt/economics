@@ -179,6 +179,8 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	**Mindestpreise** sind gesetzliche Preise, zu dem ein Produkt mindestens verkauft werden darf. (*Beispiel: Mindestlohn*)
 -	bindende Mindestpreise (Mindestpreis oberhalb des Marktgleichgewichts) verursachen einen Angebotsüberschuss
 -	**Steuern** verursachen eine Änderung des Marksgleichgewichts.
+-	Eine Besteuerung der Verkäufer sorgt für eine Erhöhung der Angebotskurve, da die Verkäufer einen höheren Preis fordern
+-	Eine Besteuerung der Käufer sorgt für eine Reduzierung der Nachfragekurve, da die Zahlungsbereitschaft der 
 -	**Steuerinzidenz** gibt Auskunft über die Verteilung der Steuerlast
 
 
@@ -186,7 +188,7 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNT
-I2NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5OSwxNjc1OTEyMDcx
-LDE2MjI3NTc0NzNdfQ==
+eyJoaXN0b3J5IjpbLTExNjY3NjcyOTAsMTEwNTIzMjk2OSw5Nz
+k4NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5
+OSwxNjc1OTEyMDcxLDE2MjI3NTc0NzNdfQ==
 -->
