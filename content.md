@@ -70,7 +70,7 @@ Zeigt Güter- und Geldfluss zwischen Haushalten und Unternehmen.
 
 ### Angebot
 
-[![Angebotskurve](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Angebotskurve.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Angebotskurve.png)
+[![Angebotskurve](https://www.rechnungswesen-verstehen.de/upload/Angebotskurve.png)](https://www.rechnungswesen-verstehen.de)
 
 -	**Gesetz des Angebots:** Angebotsmenge steigt mit dem Preis
 -	Einflüsse auf das Angebot:
@@ -238,10 +238,10 @@ Die Produktionsfunktion zeigt den Zusammenhang zwischen Inputmenge und der Outpu
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDAzNTkyNywxNTQ5NDcyNjg0LDE1Mj
-czODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1NTM0LDcwOTE4MDgx
-NywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC0yNjE4NjIyNDEsLT
-IyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OTg0MzE5LDEyNzI1MjY2
-OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5LDE2NzU5MTIwNzEsMT
-YyMjc1NzQ3M119
+eyJoaXN0b3J5IjpbLTEzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNT
+I3Mzg1NTk4LDM1MDgwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4
+MTcsLTg1Mzk5MTQzOCwtMTYwMzUyNzA5OCwtMjYxODYyMjQxLC
+0yMjYzNzI1MDksMTEwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2
+NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5OSwxNjc1OTEyMDcxLD
+E2MjI3NTc0NzNdfQ==
 -->
