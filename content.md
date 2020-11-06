@@ -162,13 +162,11 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Effizienz von Märkten
 
-**Konsumentenrente:** Zahlungsbereitschaft - bezahlter Betrag
+[![Konsumentenrente](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gleichgewichtspreis-_und_menge_ohne_Mengensteuern.svg/1200px-Gleichgewichtspreis-_und_menge_ohne_Mengensteuern.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gleichgewichtspreis-_und_menge_ohne_Mengensteuern.svg/1200px-Gleichgewichtspreis-_und_menge_ohne_Mengensteuern.svg.png)
 
-[![Konsumentenrente](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Konsumentenrente.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Konsumentenrente.png)
+**Konsumentenrente:** (KR) Zahlungsbereitschaft - bezahlter Betrag
 
-**Produzentenrente:** erhaltener Betrag - Produktionskosten
-
-[![Produzentenrente](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produzentenrente.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Produzentenrente.png)
+**Produzentenrente:** (PR) erhaltener Betrag - Produktionskosten
 
 (Markt-)**Effizienz** ist die Maximierung aller Renten. (Marktgleichgewicht sorgt für Gleichgewicht der Konsumenten- und Produzentenrente)
 
@@ -238,7 +236,7 @@ Die Produktionsfunktion zeigt den Zusammenhang zwischen Inputmenge und der Outpu
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjIzMTMyOSwtNzgwMTA5MDc4LDE4Mz
+eyJoaXN0b3J5IjpbLTYzNDMzMzk2OSwtNzgwMTA5MDc4LDE4Mz
 k3NjI4NTgsLTEzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNTI3Mzg1
 NTk4LDM1MDgwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4MTcsLT
 g1Mzk5MTQzOCwtMTYwMzUyNzA5OCwtMjYxODYyMjQxLC0yMjYz
