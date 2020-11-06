@@ -227,13 +227,14 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	Verbote oder Gebote
 -	Z.B. Festlegung von Emmisionsniveaus
 -	Steuern und Subventionen
+-	Z.B. Pigou-Steuern zur Korrektur negativer Externalitäten
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTE0NTU2LC0xNzE4Mzg1NTM0LDcwOT
+eyJoaXN0b3J5IjpbMzUwODA2MDM0LC0xNzE4Mzg1NTM0LDcwOT
 E4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC0yNjE4NjIy
 NDEsLTIyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OTg0MzE5LDEyNz
 I1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5LDE2NzU5MTIw
