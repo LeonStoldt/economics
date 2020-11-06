@@ -243,13 +243,17 @@ Angebot und Nachfrage des Arbeitsmarktes bestimmen den Gleichgewichtslohnsatz.
 
 Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 
+### Einkommensverteilung der Bevölkerung
+
+-	
+
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNDU2NjcyLDIwODcwMjQ1NiwtMTkzMD
-UwNjQ0NSw1MDQ0NTg2NDgsLTYzNDMzMzk2OSwtNzgwMTA5MDc4
-LDE4Mzk3NjI4NTgsLTEzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNT
-I3Mzg1NTk4LDM1MDgwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4
-MTcsLTg1Mzk5MTQzOCwtMTYwMzUyNzA5OCwtMjYxODYyMjQxLC
-0yMjYzNzI1MDksMTEwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2
-NjkwXX0=
+eyJoaXN0b3J5IjpbLTEwMTMyNjEwMSw2NTE0NTY2NzIsMjA4Nz
+AyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5
+LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNT
+Q5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1
+NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC
+0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OTg0
+MzE5XX0=
 -->
