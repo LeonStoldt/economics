@@ -273,14 +273,15 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 
 ## Makroökonomie
 
-#### Bruttoinlandsprodukt
--	misst das Gesamteinkommen der Volkswirtschaft
+#### Bruttoinlandsprodukt (BIP)
+-	misst das Gesamteinkommen der Volkswirtschaft und die Gesamtausgaben für die Erstellung von Waren und Dienstleistungen
+-	Gesamteinkommen und Gesamtausgaben sind gleich groß (Käufer, Verkäufer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMzY2MjAsLTE5MTk2NzgwNzIsMjA4OT
-g4NzI2NCwxODU1NTA0MDksMTU1MzQ0MzAzOCw2NTE0NTY2NzIs
-MjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0Mz
-MzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgx
-MywxNTQ5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNz
-E4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3
-MDk4XX0=
+eyJoaXN0b3J5IjpbMTAwMTM2NTg1MSwtMTkxOTY3ODA3MiwyMD
+g5ODg3MjY0LDE4NTU1MDQwOSwxNTUzNDQzMDM4LDY1MTQ1NjY3
+MiwyMDg3MDI0NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02Mz
+QzMzM5NjksLTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAy
+ODEzLDE1NDk0NzI2ODQsMTUyNzM4NTU5OCwzNTA4MDYwMzQsLT
+E3MTgzODU1MzQsNzA5MTgwODE3LC04NTM5OTE0MzgsLTE2MDM1
+MjcwOThdfQ==
 -->
