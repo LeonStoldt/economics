@@ -209,6 +209,9 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 #### Auswirkungen von Steuern auf die Nettowohlfahrt
 
 -	Steuern führen zu einem Nettowohlfahrtsverlust durch das Übersteigen des Wohlfahrtsverlust von Konsumenten und Produzenten über den Steuereinnahmen
+-	Einflussfaktoren sind:
+	-	Preiselastizität des Angebots
+	-	Preiselastizität der Nachfrage
 
 [![Wohlfahrtsverlust](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-1-ca.jpg)](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-1-ca.jpg)
 
@@ -216,8 +219,8 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxNjUzMjY3LC0yNjE4NjIyNDEsLTIyNj
-M3MjUwOSwxMTA1MjMyOTY5LDk3OTg0MzE5LDEyNzI1MjY2OTAs
-MTY3NDEwOTczNCwtNjc3MDk2Mjk5LDE2NzU5MTIwNzEsMTYyMj
-c1NzQ3M119
+eyJoaXN0b3J5IjpbLTEyMjQ0MzQ5NiwtMjYxODYyMjQxLC0yMj
+YzNzI1MDksMTEwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2Njkw
+LDE2NzQxMDk3MzQsLTY3NzA5NjI5OSwxNjc1OTEyMDcxLDE2Mj
+I3NTc0NzNdfQ==
 -->
