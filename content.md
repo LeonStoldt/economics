@@ -232,14 +232,14 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Arbeitsmarkt und Handel
 
-
+[![Produktionsfunktion](https://www.rechnungswesen-verstehen.de/upload/produktionsfunktion.jpg)](https://www.rechnungswesen-verstehen.de/upload/produktionsfunktion.jpg)
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTQ3MjY4NCwxNTI3Mzg1NTk4LDM1MD
-gwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4MTcsLTg1Mzk5MTQz
-OCwtMTYwMzUyNzA5OCwtMjYxODYyMjQxLC0yMjYzNzI1MDksMT
-EwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3
-MzQsLTY3NzA5NjI5OSwxNjc1OTEyMDcxLDE2MjI3NTc0NzNdfQ
-==
+eyJoaXN0b3J5IjpbNDA4MDk5NzU5LDE1NDk0NzI2ODQsMTUyNz
+M4NTU5OCwzNTA4MDYwMzQsLTE3MTgzODU1MzQsNzA5MTgwODE3
+LC04NTM5OTE0MzgsLTE2MDM1MjcwOTgsLTI2MTg2MjI0MSwtMj
+I2MzcyNTA5LDExMDUyMzI5NjksOTc5ODQzMTksMTI3MjUyNjY5
+MCwxNjc0MTA5NzM0LC02NzcwOTYyOTksMTY3NTkxMjA3MSwxNj
+IyNzU3NDczXX0=
 -->
