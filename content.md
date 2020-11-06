@@ -42,7 +42,7 @@ Zeigt Güter- und Geldfluss zwischen Haushalten und Unternehmen.
 **Umsatz:** Eingenommener Betrag der Verkäufer ($Preis * Menge$)
 
 *Beispiel:*
-[![Kreislaufdiagramm](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Kreislaufdiagramm.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Kreislaufdiagramm.png)
+[![Kreislaufdiagramm](https://upload.wikimedia.org/wikipedia/commons/c/c8/Einfacher_Wirtschaftskreislauf.png)](https://upload.wikimedia.org/wikipedia/commons/c/c8/Einfacher_Wirtschaftskreislauf.png)
 
 ## Angebot und Nachfrage
 
@@ -238,10 +238,10 @@ Die Produktionsfunktion zeigt den Zusammenhang zwischen Inputmenge und der Outpu
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzY3OTkxNywxNTQ5NDcyNjg0LDE1Mj
-czODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1NTM0LDcwOTE4MDgx
-NywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC0yNjE4NjIyNDEsLT
-IyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OTg0MzE5LDEyNzI1MjY2
-OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5LDE2NzU5MTIwNzEsMT
-YyMjc1NzQ3M119
+eyJoaXN0b3J5IjpbMzgyMjMzMTY1LDE1NDk0NzI2ODQsMTUyNz
+M4NTU5OCwzNTA4MDYwMzQsLTE3MTgzODU1MzQsNzA5MTgwODE3
+LC04NTM5OTE0MzgsLTE2MDM1MjcwOTgsLTI2MTg2MjI0MSwtMj
+I2MzcyNTA5LDExMDUyMzI5NjksOTc5ODQzMTksMTI3MjUyNjY5
+MCwxNjc0MTA5NzM0LC02NzcwOTYyOTksMTY3NTkxMjA3MSwxNj
+IyNzU3NDczXX0=
 -->
