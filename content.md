@@ -261,13 +261,15 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 -	Armut hängt von der Einkommensverteilung - nicht Einkommenshöhe ab
 -	**Negative Einkommenssteuer:** Zieht Steuern von Haushalten mit hohem Einkommen ein und leitet diese an Haushalte mit niedrigem Einkommen weiter.
 
+
+
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTg4NzI2NCwxODU1NTA0MDksMTU1Mz
-Q0MzAzOCw2NTE0NTY2NzIsMjA4NzAyNDU2LC0xOTMwNTA2NDQ1
-LDUwNDQ1ODY0OCwtNjM0MzMzOTY5LC03ODAxMDkwNzgsMTgzOT
-c2Mjg1OCwtMTM1MjIwMjgxMywxNTQ5NDcyNjg0LDE1MjczODU1
-OTgsMzUwODA2MDM0LC0xNzE4Mzg1NTM0LDcwOTE4MDgxNywtOD
-UzOTkxNDM4LC0xNjAzNTI3MDk4LC0yNjE4NjIyNDEsLTIyNjM3
-MjUwOV19
+eyJoaXN0b3J5IjpbLTE5ODA0NDMxNDAsMjA4OTg4NzI2NCwxOD
+U1NTA0MDksMTU1MzQ0MzAzOCw2NTE0NTY2NzIsMjA4NzAyNDU2
+LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5LC03OD
+AxMDkwNzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNTQ5NDcy
+Njg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1NTM0LD
+cwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC0yNjE4
+NjIyNDFdfQ==
 -->
