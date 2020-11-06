@@ -136,7 +136,7 @@ $$P_A = \frac{\text{prozentuale Änderung des Angebots}}{\text{prozentuale Preis
 
 $$GK = \frac{\text{Änderung der Gesamtkosten}}{\text{Änderung der Menge}} = \frac{\Delta K}{\Delta Q}$$
 
-[![GKundDK](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/GKundDK.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/GKundDK.png)
+[![GKundDK](https://upload.wikimedia.org/wikipedia/commons/4/45/Kostenfunktion.png)](https://upload.wikimedia.org/wikipedia/commons/4/45/Kostenfunktion.png)
 
 Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken diese und sobald die Grenzkosten über den durchschnittlichen Gesamtkosten liegen steigen diese. Der Schnittpunkt bestimmt den maximalen Gewinn.
 
@@ -238,10 +238,10 @@ Die Produktionsfunktion zeigt den Zusammenhang zwischen Inputmenge und der Outpu
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNT
-Q5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1
-NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC0xNjAzNTI3MDk4LC
-0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OTg0
-MzE5LDEyNzI1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5LD
-E2NzU5MTIwNzEsMTYyMjc1NzQ3M119
+eyJoaXN0b3J5IjpbLTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMz
+UyMjAyODEzLDE1NDk0NzI2ODQsMTUyNzM4NTU5OCwzNTA4MDYw
+MzQsLTE3MTgzODU1MzQsNzA5MTgwODE3LC04NTM5OTE0MzgsLT
+E2MDM1MjcwOTgsLTI2MTg2MjI0MSwtMjI2MzcyNTA5LDExMDUy
+MzI5NjksOTc5ODQzMTksMTI3MjUyNjY5MCwxNjc0MTA5NzM0LC
+02NzcwOTYyOTksMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
 -->
