@@ -187,14 +187,16 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	**Steuerinzidenz** gibt Auskunft über die Verteilung der Steuerlast
 -	Verteilung der Steuerlast ist von der Elastizität abhängig.
 
-| $E_N \gt E_A$ |  |  |
+| $E_N \gt E_A$ | $E_N = E_A$ | $E_N \lt E_A$ |
+|:---:|:---:|:---:|
+|  |  |  |
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzMxODI5MSwxMTA1MjMyOTY5LDk3OT
+eyJoaXN0b3J5IjpbLTE2MDE5MzQ5MSwxMTA1MjMyOTY5LDk3OT
 g0MzE5LDEyNzI1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5
 LDE2NzU5MTIwNzEsMTYyMjc1NzQ3M119
 -->
