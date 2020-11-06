@@ -256,15 +256,16 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 -	**Permanentes Einkommen:** durchschnittliches, reguläres Einkommen (inkl. transitorisches Einkommen)
 
 ### Armut
--
+-	Haushalte mit einem Nettoäquivalenzeinkommen $\lt$ 60% werden als Arm bezeichnet
+-	**Nettoäquivalenzeinkommen:**
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM2OTI5NTcsMTU1MzQ0MzAzOCw2NT
-E0NTY2NzIsMjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwNDQ1ODY0
-OCwtNjM0MzMzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1OCwtMT
-M1MjIwMjgxMywxNTQ5NDcyNjg0LDE1MjczODU1OTgsMzUwODA2
-MDM0LC0xNzE4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkxNDM4LC
-0xNjAzNTI3MDk4LC0yNjE4NjIyNDEsLTIyNjM3MjUwOSwxMTA1
-MjMyOTY5XX0=
+eyJoaXN0b3J5IjpbLTM2Njg4MTI0MCwxNTUzNDQzMDM4LDY1MT
+Q1NjY3MiwyMDg3MDI0NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4
+LC02MzQzMzM5NjksLTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMz
+UyMjAyODEzLDE1NDk0NzI2ODQsMTUyNzM4NTU5OCwzNTA4MDYw
+MzQsLTE3MTgzODU1MzQsNzA5MTgwODE3LC04NTM5OTE0MzgsLT
+E2MDM1MjcwOTgsLTI2MTg2MjI0MSwtMjI2MzcyNTA5LDExMDUy
+MzI5NjldfQ==
 -->
