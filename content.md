@@ -86,7 +86,7 @@ Zeigt Güter- und Geldfluss zwischen Haushalten und Unternehmen.
 -	Gleichgewichtspreis: Preis, bei dem Angebots- und Nachfragemenge gleich sind
 -	Gleichgewichtsmenge: Menge zum Gleichgewichtspreis
 
-[![Gleichgewicht](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Gleichgewicht.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Gleichgewicht.png)
+[![Gleichgewicht](https://www.wiwiweb.de/assets/courses/media/kap1-2-e-1-ca.jpg)](https://www.wiwiweb.de)
 
 **Angebotsüberschuss:** Preis liegt über dem Gleichgewicht. Folge: Preissenkung.
 **Nachfrageüberschuss:** Preis liegt unter dem Gleichgewicht. Folge: Preiserhöhung. (*Beispiel:* Nvidia RTX 30er Serie)
@@ -232,16 +232,16 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Arbeitsmarkt und Handel
 
-[![Produktionsfunktion](https://www.rechnungswesen-verstehen.de/upload/produktionsfunktion.jpg)](https://www.rechnungswesen-verstehen.de/upload/produktionsfunktion.jpg)
+[![Produktionsfunktion](https://www.rechnungswesen-verstehen.de/upload/produktionsfunktion.jpg)](https://www.rechnungswesen-verstehen.de)
 
 Die Produktionsfunktion zeigt den Zusammenhang zwischen Inputmenge und der Outputmenge
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNT
-I3Mzg1NTk4LDM1MDgwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4
-MTcsLTg1Mzk5MTQzOCwtMTYwMzUyNzA5OCwtMjYxODYyMjQxLC
-0yMjYzNzI1MDksMTEwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2
-NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5OSwxNjc1OTEyMDcxLD
-E2MjI3NTc0NzNdfQ==
+eyJoaXN0b3J5IjpbLTEyODcyMjIyNTYsLTEzNTIyMDI4MTMsMT
+U0OTQ3MjY4NCwxNTI3Mzg1NTk4LDM1MDgwNjAzNCwtMTcxODM4
+NTUzNCw3MDkxODA4MTcsLTg1Mzk5MTQzOCwtMTYwMzUyNzA5OC
+wtMjYxODYyMjQxLC0yMjYzNzI1MDksMTEwNTIzMjk2OSw5Nzk4
+NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5OS
+wxNjc1OTEyMDcxLDE2MjI3NTc0NzNdfQ==
 -->
