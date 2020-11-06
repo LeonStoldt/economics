@@ -235,15 +235,17 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 Die Produktionsfunktion zeigt den Zusammenhang zwischen Inputmenge und der Outputmenge.
 Je mehr Arbeitskräfte eingesetzt werden, umso flacher wird die Produktionsfunktion.
 
+**Wertgrenzprodukt** = Grenzprodukt $*$ Preis
 
+**Maximaler Gewinn:** Wenn Wertgrenzprodukt = Lohn
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTY5MDEwMCw1MDQ0NTg2NDgsLTYzND
-MzMzk2OSwtNzgwMTA5MDc4LDE4Mzk3NjI4NTgsLTEzNTIyMDI4
-MTMsMTU0OTQ3MjY4NCwxNTI3Mzg1NTk4LDM1MDgwNjAzNCwtMT
-cxODM4NTUzNCw3MDkxODA4MTcsLTg1Mzk5MTQzOCwtMTYwMzUy
-NzA5OCwtMjYxODYyMjQxLC0yMjYzNzI1MDksMTEwNTIzMjk2OS
-w5Nzk4NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQsLTY3NzA5
-NjI5OV19
+eyJoaXN0b3J5IjpbLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02Mz
+QzMzM5NjksLTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAy
+ODEzLDE1NDk0NzI2ODQsMTUyNzM4NTU5OCwzNTA4MDYwMzQsLT
+E3MTgzODU1MzQsNzA5MTgwODE3LC04NTM5OTE0MzgsLTE2MDM1
+MjcwOTgsLTI2MTg2MjI0MSwtMjI2MzcyNTA5LDExMDUyMzI5Nj
+ksOTc5ODQzMTksMTI3MjUyNjY5MCwxNjc0MTA5NzM0LC02Nzcw
+OTYyOTldfQ==
 -->
