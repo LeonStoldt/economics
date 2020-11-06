@@ -239,14 +239,15 @@ Je mehr Arbeitskräfte eingesetzt werden, umso flacher wird die Produktionsfunkt
 
 **Maximaler Gewinn:** Wenn Wertgrenzprodukt = Lohn
 
+Angebot und Nachfrage des Arbeitsmarktes bestimmen den Gleichgewichtslohnsatz.
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjE2Mjg0OSwtMTkzMDUwNjQ0NSw1MD
-Q0NTg2NDgsLTYzNDMzMzk2OSwtNzgwMTA5MDc4LDE4Mzk3NjI4
-NTgsLTEzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNTI3Mzg1NTk4LD
-M1MDgwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4MTcsLTg1Mzk5
-MTQzOCwtMTYwMzUyNzA5OCwtMjYxODYyMjQxLC0yMjYzNzI1MD
-ksMTEwNTIzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2NjkwLDE2NzQx
-MDk3MzRdfQ==
+eyJoaXN0b3J5IjpbMjA4NzAyNDU2LC0xOTMwNTA2NDQ1LDUwND
+Q1ODY0OCwtNjM0MzMzOTY5LC03ODAxMDkwNzgsMTgzOTc2Mjg1
+OCwtMTM1MjIwMjgxMywxNTQ5NDcyNjg0LDE1MjczODU1OTgsMz
+UwODA2MDM0LC0xNzE4Mzg1NTM0LDcwOTE4MDgxNywtODUzOTkx
+NDM4LC0xNjAzNTI3MDk4LC0yNjE4NjIyNDEsLTIyNjM3MjUwOS
+wxMTA1MjMyOTY5LDk3OTg0MzE5LDEyNzI1MjY2OTAsMTY3NDEw
+OTczNF19
 -->
