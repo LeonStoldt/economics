@@ -217,15 +217,17 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 [![Wohlfahrtsverlust](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-1-ca.jpg)](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-1-ca.jpg)
 
 ### Externalitäten
+> auch externer Effekt
 
+-	Externalitäten können die Wohlfahrt Dritter positiv oder negativ beeinflussen
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mzk5MTQzOCwtMTYwMzUyNzA5OCwtMj
-YxODYyMjQxLC0yMjYzNzI1MDksMTEwNTIzMjk2OSw5Nzk4NDMx
-OSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5OSwxNj
-c1OTEyMDcxLDE2MjI3NTc0NzNdfQ==
+eyJoaXN0b3J5IjpbNzA5MTgwODE3LC04NTM5OTE0MzgsLTE2MD
+M1MjcwOTgsLTI2MTg2MjI0MSwtMjI2MzcyNTA5LDExMDUyMzI5
+NjksOTc5ODQzMTksMTI3MjUyNjY5MCwxNjc0MTA5NzM0LC02Nz
+cwOTYyOTksMTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
 -->
