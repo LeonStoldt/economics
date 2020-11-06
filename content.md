@@ -174,10 +174,18 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ### politische Auswirkungen auf den Markt
 
+#### Höchstpreise
+
 -	**Höchstpreise** sind gesetzliche Preise, zu dem ein Produkt maximal verkauft werden darf.
 -	bindende Höchstpreise (Höchstpreis unterhalb des Marktgleichgewichts) verursachen eine Mangelwirtschaft (Nachfrageüberschuss)
+
+#### Mindestpreise
+
 -	**Mindestpreise** sind gesetzliche Preise, zu dem ein Produkt mindestens verkauft werden darf. (*Beispiel: Mindestlohn*)
 -	bindende Mindestpreise (Mindestpreis oberhalb des Marktgleichgewichts) verursachen einen Angebotsüberschuss
+
+#### Steuern
+
 -	**Steuern** verursachen eine Änderung des Marksgleichgewichts.
 -	Eine Besteuerung der Verkäufer sorgt für eine Erhöhung der Angebotskurve, da die Verkäufer einen höheren Preis fordern:
 [![Steuer-Angebot](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Angebot.jpg)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Angebot.jpg)
@@ -192,12 +200,15 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 | Steuerlast auf der Seite der Verkäufer | Steuerlast ausgeglichen | Steuerlast auf der Seite der Käufer |
 | [![unelastisches Angebot](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-2-ca.jpg)](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-2-ca.jpg) |  | [![unelastische Nachfrage](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-3-ca.jpg)](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-3-ca.jpg) |
 
+#### Subventionen
+
+-	**Subn**
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjM3MjUwOSwxMTA1MjMyOTY5LDk3OT
-g0MzE5LDEyNzI1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5
-LDE2NzU5MTIwNzEsMTYyMjc1NzQ3M119
+eyJoaXN0b3J5IjpbNDk3MzQxODA2LC0yMjYzNzI1MDksMTEwNT
+IzMjk2OSw5Nzk4NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQs
+LTY3NzA5NjI5OSwxNjc1OTEyMDcxLDE2MjI3NTc0NzNdfQ==
 -->
