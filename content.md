@@ -190,13 +190,14 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 | $E_N \gt E_A$ | $E_N = E_A$ | $E_N \lt E_A$ |
 |:---:|:---:|:---:|
 | Steuerlast auf der Seite der Verkäufer | Steuerlast ausgeglichen | Steuerlast auf der Seite der Käufer |
+| ![unelastisches Angebot](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-2-ca.jpg)](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-2-ca.jpg) |  |  |
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjgwNzgwNSwxMTA1MjMyOTY5LDk3OT
+eyJoaXN0b3J5IjpbLTgyNDE2NDc3NiwxMTA1MjMyOTY5LDk3OT
 g0MzE5LDEyNzI1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5
 LDE2NzU5MTIwNzEsMTYyMjc1NzQ3M119
 -->
