@@ -185,13 +185,14 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 [![Steuer-Nachfrage](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Nachfrage.jpg)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Nachfrage.jpg)
 -	Steuern verringern Marktaktivitäten und den Umsatz eines Guts
 -	**Steuerinzidenz** gibt Auskunft über die Verteilung der Steuerlast
+-	Verteilung der Steuerlast ist von der Elastizität abhängig
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzIzODE0MywxMTA1MjMyOTY5LDk3OT
+eyJoaXN0b3J5IjpbMTg1ODc2OTQxNSwxMTA1MjMyOTY5LDk3OT
 g0MzE5LDEyNzI1MjY2OTAsMTY3NDEwOTczNCwtNjc3MDk2Mjk5
 LDE2NzU5MTIwNzEsMTYyMjc1NzQ3M119
 -->
