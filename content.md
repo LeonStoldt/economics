@@ -178,15 +178,15 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	bindende Höchstpreise (Höchstpreis unterhalb des Marktgleichgewichts) verursachen eine Mangelwirtschaft (Nachfrageüberschuss)
 -	**Mindestpreise** sind gesetzliche Preise, zu dem ein Produkt mindestens verkauft werden darf. (*Beispiel: Mindestlohn*)
 -	bindende Mindestpreise (Mindestpreis oberhalb des Marktgleichgewichts) verursachen einen Angebotsüberschuss
--	****
--	****
+-	**Steuern** verursachen eine Änderung des Marksgleichgewichts.
+-	**Steuer**
 
 
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTI2NzA3OCw5Nzk4NDMxOSwxMjcyNT
+eyJoaXN0b3J5IjpbMjAzNjEzMTEwOCw5Nzk4NDMxOSwxMjcyNT
 I2NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5OSwxNjc1OTEyMDcx
 LDE2MjI3NTc0NzNdfQ==
 -->
