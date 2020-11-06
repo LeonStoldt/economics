@@ -216,12 +216,16 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 [![Wohlfahrtsverlust](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-1-ca.jpg)](https://www.wiwiweb.de/assets/courses/media/kap1-4-e-1-ca.jpg)
 
+### Externalitäten
+
+
+
 ## Arbeitsmarkt und Handel
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM1MjcwOTgsLTI2MTg2MjI0MSwtMj
-I2MzcyNTA5LDExMDUyMzI5NjksOTc5ODQzMTksMTI3MjUyNjY5
-MCwxNjc0MTA5NzM0LC02NzcwOTYyOTksMTY3NTkxMjA3MSwxNj
-IyNzU3NDczXX0=
+eyJoaXN0b3J5IjpbLTg1Mzk5MTQzOCwtMTYwMzUyNzA5OCwtMj
+YxODYyMjQxLC0yMjYzNzI1MDksMTEwNTIzMjk2OSw5Nzk4NDMx
+OSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5OSwxNj
+c1OTEyMDcxLDE2MjI3NTc0NzNdfQ==
 -->
