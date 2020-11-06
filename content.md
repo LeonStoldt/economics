@@ -180,9 +180,9 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 -	bindende Mindestpreise (Mindestpreis oberhalb des Marktgleichgewichts) verursachen einen Angebotsüberschuss
 -	**Steuern** verursachen eine Änderung des Marksgleichgewichts.
 -	Eine Besteuerung der Verkäufer sorgt für eine Erhöhung der Angebotskurve, da die Verkäufer einen höheren Preis fordern
--	[![Steuer-Angebot](https://github.com/LeonStoldt/economics/blob/main/images/Steuer-Angebot.jpg)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Angebot.png)
+-	[![Steuer-Angebot](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Angebot.jpg)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Angebot.jpg)
 -	Eine Besteuerung der Käufer sorgt für eine Reduzierung der Nachfragekurve, da die Zahlungsbereitschaft der Nachfrager sinkt.
--	[![Steuer-Nachfrage](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Nachfrage.png)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Nachfrage.png)
+-	[![Steuer-Nachfrage](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Nachfrage.jpg)](https://raw.githubusercontent.com/LeonStoldt/economics/main/images/Steuer-Nachfrage.jpg)
 -	**Steuerinzidenz** gibt Auskunft über die Verteilung der Steuerlast
 
 
@@ -190,7 +190,7 @@ Solange die Grenzkosten unter den durchschnittlichen Gesamtkosten liegen, sinken
 
 ## Makroökonomie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTc2MjM3LDExMDUyMzI5NjksOTc5OD
-QzMTksMTI3MjUyNjY5MCwxNjc0MTA5NzM0LC02NzcwOTYyOTks
-MTY3NTkxMjA3MSwxNjIyNzU3NDczXX0=
+eyJoaXN0b3J5IjpbLTE4NTQ1OTQxNTcsMTEwNTIzMjk2OSw5Nz
+k4NDMxOSwxMjcyNTI2NjkwLDE2NzQxMDk3MzQsLTY3NzA5NjI5
+OSwxNjc1OTEyMDcxLDE2MjI3NTc0NzNdfQ==
 -->
