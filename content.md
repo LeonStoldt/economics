@@ -276,8 +276,9 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 #### Bruttoinlandsprodukt (BIP)
 -	misst das Gesamteinkommen der Volkswirtschaft und die Gesamtausgaben für die Erstellung von Waren und Dienstleistungen
 -	Gesamteinkommen und Gesamtausgaben sind gleich groß (Käufer, Verkäufer)
+-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTM2NTg1MSwtMTkxOTY3ODA3MiwyMD
+eyJoaXN0b3J5IjpbMTg5NzkwNzk3NCwtMTkxOTY3ODA3MiwyMD
 g5ODg3MjY0LDE4NTU1MDQwOSwxNTUzNDQzMDM4LDY1MTQ1NjY3
 MiwyMDg3MDI0NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02Mz
 QzMzM5NjksLTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAy
