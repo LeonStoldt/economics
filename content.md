@@ -310,12 +310,18 @@ $$BIP = C + I + G + NX$$
 	-	Humankapital (Wissen Fähigkeiten etc.)
 	-	natürliche Ressourcen (Land, Flüsse, Bodenschätze etc.)
 	-	technologisches Wissen (Wissen des besten Wegs zur Herstellung)
+-	Wirtschaftswachstum kann durch staatliche Politik gefördert werden. Z.B.
+	-	Förderung von Ersparnisbildung und Investitionen
+	-	Förderung von (Aus-)Bildung
+	-	Förderung von Freihandel
+	-	Förderung von Forschung und Entwicklung
+-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3ODMxMzAwLC00NjQxNjE1NzgsMTQ5MT
-k1OTMyNCwxMDM4MDEyMTIzLDE5ODMxNjUzNDIsMTI4NjQ1MDA0
-MywtMTkxOTY3ODA3MiwyMDg5ODg3MjY0LDE4NTU1MDQwOSwxNT
-UzNDQzMDM4LDY1MTQ1NjY3MiwyMDg3MDI0NTYsLTE5MzA1MDY0
-NDUsNTA0NDU4NjQ4LC02MzQzMzM5NjksLTc4MDEwOTA3OCwxOD
-M5NzYyODU4LC0xMzUyMjAyODEzLDE1NDk0NzI2ODQsMTUyNzM4
-NTU5OF19
+eyJoaXN0b3J5IjpbLTE1MDcxNDA4NTcsODc3ODMxMzAwLC00Nj
+QxNjE1NzgsMTQ5MTk1OTMyNCwxMDM4MDEyMTIzLDE5ODMxNjUz
+NDIsMTI4NjQ1MDA0MywtMTkxOTY3ODA3MiwyMDg5ODg3MjY0LD
+E4NTU1MDQwOSwxNTUzNDQzMDM4LDY1MTQ1NjY3MiwyMDg3MDI0
+NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02MzQzMzM5NjksLT
+c4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAyODEzLDE1NDk0
+NzI2ODRdfQ==
 -->
