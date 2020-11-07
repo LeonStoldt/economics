@@ -308,13 +308,14 @@ $$BIP = C + I + G + NX$$
 -	Faktoren der Produktivität:
 	-	Realkapital (Bestand an Sachinvestition)
 	-	Humankapital (Wissen Fähigkeiten etc.)
-	-	
+	-	natürliche Ressourcen (Land, Flüsse, Bodenschätze etc.)
+	-	technologisches Wissen (Wissen des besten Wegs zur Herstellung)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjE1OTc2OCwtNDY0MTYxNTc4LDE0OT
-E5NTkzMjQsMTAzODAxMjEyMywxOTgzMTY1MzQyLDEyODY0NTAw
-NDMsLTE5MTk2NzgwNzIsMjA4OTg4NzI2NCwxODU1NTA0MDksMT
-U1MzQ0MzAzOCw2NTE0NTY2NzIsMjA4NzAyNDU2LC0xOTMwNTA2
-NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5LC03ODAxMDkwNzgsMT
-gzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNTQ5NDcyNjg0LDE1Mjcz
-ODU1OThdfQ==
+eyJoaXN0b3J5IjpbODc3ODMxMzAwLC00NjQxNjE1NzgsMTQ5MT
+k1OTMyNCwxMDM4MDEyMTIzLDE5ODMxNjUzNDIsMTI4NjQ1MDA0
+MywtMTkxOTY3ODA3MiwyMDg5ODg3MjY0LDE4NTU1MDQwOSwxNT
+UzNDQzMDM4LDY1MTQ1NjY3MiwyMDg3MDI0NTYsLTE5MzA1MDY0
+NDUsNTA0NDU4NjQ4LC02MzQzMzM5NjksLTc4MDEwOTA3OCwxOD
+M5NzYyODU4LC0xMzUyMjAyODEzLDE1NDk0NzI2ODQsMTUyNzM4
+NTU5OF19
 -->
