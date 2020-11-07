@@ -8,5 +8,6 @@
 ## Sources
 - Notes from my lectures
 - Script and slides from my lecture
+- [The Simple Club "Einführung in die VWL" - Playlist](https://www.youtube.com/watch?v=db4iEbHNKqU&list=PLrClginNzxmNEG0n3U65lo2fNO7PFUUPA)
 
 # [Click here to open up the content](https://leonstoldt.github.io/economics/page)
