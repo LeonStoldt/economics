@@ -290,12 +290,15 @@ $$BIP = C + I + G + NX$$
 -	**BIP-Deflator:** zeigt das Verhältnis der Preiserhöhung
 -	$\text{BIP-Deflator} = \frac{\text{nomiales BIP}}{\text{reales BIP}}$
 -	**Pro-Kopf-BIP:** gibt das durchschnittliche Einkommen der Bevölkerung und somit den Lebensstandard an
+
+### Inflation
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzE2NTM0MiwxMjg2NDUwMDQzLC0xOT
-E5Njc4MDcyLDIwODk4ODcyNjQsMTg1NTUwNDA5LDE1NTM0NDMw
-MzgsNjUxNDU2NjcyLDIwODcwMjQ1NiwtMTkzMDUwNjQ0NSw1MD
-Q0NTg2NDgsLTYzNDMzMzk2OSwtNzgwMTA5MDc4LDE4Mzk3NjI4
-NTgsLTEzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNTI3Mzg1NTk4LD
-M1MDgwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4MTcsLTg1Mzk5
-MTQzOF19
+eyJoaXN0b3J5IjpbLTQxNDUwODk5NywxOTgzMTY1MzQyLDEyOD
+Y0NTAwNDMsLTE5MTk2NzgwNzIsMjA4OTg4NzI2NCwxODU1NTA0
+MDksMTU1MzQ0MzAzOCw2NTE0NTY2NzIsMjA4NzAyNDU2LC0xOT
+MwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5LC03ODAxMDkw
+NzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNTQ5NDcyNjg0LD
+E1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1NTM0LDcwOTE4
+MDgxN119
 -->
