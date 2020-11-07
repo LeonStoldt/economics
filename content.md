@@ -303,12 +303,18 @@ $$BIP = C + I + G + NX$$
 	-	Qualitätsänderungen werden nicht erfasst
 -	**nomialer Zinssatz:** ausgewiesener Zinssatz (*Beispiel:* Bankzinssatz)
 -	**realer Zinssatz:** Inflationsbereinigter Zinssatz
+
+### Produktion und Wachstum
+-	Faktoren der Produktivität:
+	-	Realkapital (Bestand an Sachinvestition)
+	-	Humankapital (Wissen Fähigkeiten etc.)
+	-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDE2MTU3OCwxNDkxOTU5MzI0LDEwMz
-gwMTIxMjMsMTk4MzE2NTM0MiwxMjg2NDUwMDQzLC0xOTE5Njc4
-MDcyLDIwODk4ODcyNjQsMTg1NTUwNDA5LDE1NTM0NDMwMzgsNj
-UxNDU2NjcyLDIwODcwMjQ1NiwtMTkzMDUwNjQ0NSw1MDQ0NTg2
-NDgsLTYzNDMzMzk2OSwtNzgwMTA5MDc4LDE4Mzk3NjI4NTgsLT
-EzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNTI3Mzg1NTk4LDM1MDgw
-NjAzNF19
+eyJoaXN0b3J5IjpbMTYzMjE1OTc2OCwtNDY0MTYxNTc4LDE0OT
+E5NTkzMjQsMTAzODAxMjEyMywxOTgzMTY1MzQyLDEyODY0NTAw
+NDMsLTE5MTk2NzgwNzIsMjA4OTg4NzI2NCwxODU1NTA0MDksMT
+U1MzQ0MzAzOCw2NTE0NTY2NzIsMjA4NzAyNDU2LC0xOTMwNTA2
+NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5LC03ODAxMDkwNzgsMT
+gzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNTQ5NDcyNjg0LDE1Mjcz
+ODU1OThdfQ==
 -->
