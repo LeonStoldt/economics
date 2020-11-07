@@ -315,13 +315,14 @@ $$BIP = C + I + G + NX$$
 	-	Förderung von (Aus-)Bildung
 	-	Förderung von Freihandel
 	-	Förderung von Forschung und Entwicklung
--	
+-	Ausbildung ist wichtig für den langfristigen wirtschaftlichen Erfolg
+-	Gesundheit fördert die Produktivität (-> Investition in die Gesundheit der Bevölkerung) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcxNDA4NTcsODc3ODMxMzAwLC00Nj
-QxNjE1NzgsMTQ5MTk1OTMyNCwxMDM4MDEyMTIzLDE5ODMxNjUz
-NDIsMTI4NjQ1MDA0MywtMTkxOTY3ODA3MiwyMDg5ODg3MjY0LD
-E4NTU1MDQwOSwxNTUzNDQzMDM4LDY1MTQ1NjY3MiwyMDg3MDI0
-NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02MzQzMzM5NjksLT
-c4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAyODEzLDE1NDk0
-NzI2ODRdfQ==
+eyJoaXN0b3J5IjpbMTg0MTIwODgyMywtMTUwNzE0MDg1Nyw4Nz
+c4MzEzMDAsLTQ2NDE2MTU3OCwxNDkxOTU5MzI0LDEwMzgwMTIx
+MjMsMTk4MzE2NTM0MiwxMjg2NDUwMDQzLC0xOTE5Njc4MDcyLD
+IwODk4ODcyNjQsMTg1NTUwNDA5LDE1NTM0NDMwMzgsNjUxNDU2
+NjcyLDIwODcwMjQ1NiwtMTkzMDUwNjQ0NSw1MDQ0NTg2NDgsLT
+YzNDMzMzk2OSwtNzgwMTA5MDc4LDE4Mzk3NjI4NTgsLTEzNTIy
+MDI4MTNdfQ==
 -->
