@@ -297,12 +297,16 @@ $$BIP = C + I + G + NX$$
 -	**Inflationsrate** entspricht der prozentualen Veränderung zur Vorperiode
 -	**Verbraucherpreisindex** ist die Messgröße der Preisentwicklung (misst die Preisveränderung des Konsums eines Haushalts)
 -	Verbraucherpreisindex wird monatlich berechnet
+-	Probleme der Messung der Lebenserhaltungskosten
+	-	Substitution von Gütern durch günstigere Produkte
+	-	Einführung neuer Güter
+	-	Qualitätsänderungen werden nicht erfasst
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODAxMjEyMywxOTgzMTY1MzQyLDEyOD
-Y0NTAwNDMsLTE5MTk2NzgwNzIsMjA4OTg4NzI2NCwxODU1NTA0
-MDksMTU1MzQ0MzAzOCw2NTE0NTY2NzIsMjA4NzAyNDU2LC0xOT
-MwNTA2NDQ1LDUwNDQ1ODY0OCwtNjM0MzMzOTY5LC03ODAxMDkw
-NzgsMTgzOTc2Mjg1OCwtMTM1MjIwMjgxMywxNTQ5NDcyNjg0LD
-E1MjczODU1OTgsMzUwODA2MDM0LC0xNzE4Mzg1NTM0LDcwOTE4
-MDgxN119
+eyJoaXN0b3J5IjpbMTQ5MTk1OTMyNCwxMDM4MDEyMTIzLDE5OD
+MxNjUzNDIsMTI4NjQ1MDA0MywtMTkxOTY3ODA3MiwyMDg5ODg3
+MjY0LDE4NTU1MDQwOSwxNTUzNDQzMDM4LDY1MTQ1NjY3MiwyMD
+g3MDI0NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02MzQzMzM5
+NjksLTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAyODEzLD
+E1NDk0NzI2ODQsMTUyNzM4NTU5OCwzNTA4MDYwMzQsLTE3MTgz
+ODU1MzRdfQ==
 -->
