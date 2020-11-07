@@ -288,14 +288,14 @@ $$BIP = C + I + G + NX$$
 -	**realer BIP:** bewertet die Produktion von Gütern und Dienstleistungen zu den Marktpreisen des Vorjahres
 -	**nomialer BIP:** bewertet den Output von Gütern und Dienstleistungen zu laufenden Marktpreisen
 -	**BIP-Deflator:** zeigt das Verhältnis der Preiserhöhung
--	$BIP-Deflator = \frac{nomiales BIP}{reales BIP}$
+-	$\text{BIP-Deflator} = \frac{\text{nomiales BIP}}{\text{reales BIP}}$
 -	**Pro-Kopf-BIP:** gibt das durchschnittliche Einkommen der Bevölkerung und somit den Lebensstandard an
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjQ1MDA0MywtMTkxOTY3ODA3MiwyMD
-g5ODg3MjY0LDE4NTU1MDQwOSwxNTUzNDQzMDM4LDY1MTQ1NjY3
-MiwyMDg3MDI0NTYsLTE5MzA1MDY0NDUsNTA0NDU4NjQ4LC02Mz
-QzMzM5NjksLTc4MDEwOTA3OCwxODM5NzYyODU4LC0xMzUyMjAy
-ODEzLDE1NDk0NzI2ODQsMTUyNzM4NTU5OCwzNTA4MDYwMzQsLT
-E3MTgzODU1MzQsNzA5MTgwODE3LC04NTM5OTE0MzgsLTE2MDM1
-MjcwOThdfQ==
+eyJoaXN0b3J5IjpbMTk4MzE2NTM0MiwxMjg2NDUwMDQzLC0xOT
+E5Njc4MDcyLDIwODk4ODcyNjQsMTg1NTUwNDA5LDE1NTM0NDMw
+MzgsNjUxNDU2NjcyLDIwODcwMjQ1NiwtMTkzMDUwNjQ0NSw1MD
+Q0NTg2NDgsLTYzNDMzMzk2OSwtNzgwMTA5MDc4LDE4Mzk3NjI4
+NTgsLTEzNTIyMDI4MTMsMTU0OTQ3MjY4NCwxNTI3Mzg1NTk4LD
+M1MDgwNjAzNCwtMTcxODM4NTUzNCw3MDkxODA4MTcsLTg1Mzk5
+MTQzOF19
 -->
