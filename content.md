@@ -301,9 +301,10 @@ $$BIP = C + I + G + NX$$
 	-	Substitution von Gütern durch günstigere Produkte
 	-	Einführung neuer Güter
 	-	Qualitätsänderungen werden nicht erfasst
-	-	
+-	**nomialer Zinssatz:** ausgewiesener Zinssatz (*Beispiel:* Bankzinssatz)
+-	**realer Zinssatz:** Inflationsbereinigter Zinssatz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzkzMTY1MSwxNDkxOTU5MzI0LDEwMz
+eyJoaXN0b3J5IjpbLTQ2NDE2MTU3OCwxNDkxOTU5MzI0LDEwMz
 gwMTIxMjMsMTk4MzE2NTM0MiwxMjg2NDUwMDQzLC0xOTE5Njc4
 MDcyLDIwODk4ODcyNjQsMTg1NTUwNDA5LDE1NTM0NDMwMzgsNj
 UxNDU2NjcyLDIwODcwMjQ1NiwtMTkzMDUwNjQ0NSw1MDQ0NTg2
