@@ -120,6 +120,7 @@ $$P_A = \frac{\text{prozentuale Änderung des Angebots}}{\text{prozentuale Preis
 
 -	zeigt das Verhältnis zwischen Inputmenge und Produktionsmenge
 -	**Grenzprodukt** ist die Ableitung einer Funktion (hier der Produktionsfunktion)
+-	Grenzprodukt ist der Ertragszuwachs pro einer weiteren Produktionseinheit
 
 *Beispiel:*
 [![Produktionsfunktion](https://www.rechnungswesen-verstehen.de/upload/produktionsfunktion.jpg)](https://www.rechnungswesen-verstehen.de)
@@ -318,11 +319,11 @@ $$BIP = C + I + G + NX$$
 -	Ausbildung ist wichtig für den langfristigen wirtschaftlichen Erfolg
 -	Gesundheit fördert die Produktivität (-> Investition in die Gesundheit der Bevölkerung) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTIwODgyMywtMTUwNzE0MDg1Nyw4Nz
-c4MzEzMDAsLTQ2NDE2MTU3OCwxNDkxOTU5MzI0LDEwMzgwMTIx
-MjMsMTk4MzE2NTM0MiwxMjg2NDUwMDQzLC0xOTE5Njc4MDcyLD
-IwODk4ODcyNjQsMTg1NTUwNDA5LDE1NTM0NDMwMzgsNjUxNDU2
-NjcyLDIwODcwMjQ1NiwtMTkzMDUwNjQ0NSw1MDQ0NTg2NDgsLT
-YzNDMzMzk2OSwtNzgwMTA5MDc4LDE4Mzk3NjI4NTgsLTEzNTIy
-MDI4MTNdfQ==
+eyJoaXN0b3J5IjpbMzYwODkwMjgyLDE4NDEyMDg4MjMsLTE1MD
+cxNDA4NTcsODc3ODMxMzAwLC00NjQxNjE1NzgsMTQ5MTk1OTMy
+NCwxMDM4MDEyMTIzLDE5ODMxNjUzNDIsMTI4NjQ1MDA0MywtMT
+kxOTY3ODA3MiwyMDg5ODg3MjY0LDE4NTU1MDQwOSwxNTUzNDQz
+MDM4LDY1MTQ1NjY3MiwyMDg3MDI0NTYsLTE5MzA1MDY0NDUsNT
+A0NDU4NjQ4LC02MzQzMzM5NjksLTc4MDEwOTA3OCwxODM5NzYy
+ODU4XX0=
 -->
