@@ -270,7 +270,7 @@ Die **3 wichtigsten Produktionsfaktoren** sind Arbeit, Boden und Kapital.
 -	erhöhen die Wohlfahrt der einheimischen Konsumenten
 -	führen zu einem Nettowohlfahrtsverlust (D und F)
 
-[![Zölle](https://upload.wikimedia.org/wikipedia/de/thumb/0/09/Einfuhrkontingent.PNG/500px-Einfuhrkontingent.PNG)](https://upload.wikimedia.org/wikipedia/de/thumb/0/09/Einfuhrkontingent.PNG/500px-Einfuhrkontingent.PNG)
+[![Zölle](https://www.wiwiwiki.net/images/2/28/Importquote.JPG)](https://www.wiwiwiki.net)
 
 ## Makroökonomie
 
@@ -319,11 +319,11 @@ $$BIP = C + I + G + NX$$
 -	Ausbildung ist wichtig für den langfristigen wirtschaftlichen Erfolg
 -	Gesundheit fördert die Produktivität (-> Investition in die Gesundheit der Bevölkerung) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwODkwMjgyLDE4NDEyMDg4MjMsLTE1MD
-cxNDA4NTcsODc3ODMxMzAwLC00NjQxNjE1NzgsMTQ5MTk1OTMy
-NCwxMDM4MDEyMTIzLDE5ODMxNjUzNDIsMTI4NjQ1MDA0MywtMT
-kxOTY3ODA3MiwyMDg5ODg3MjY0LDE4NTU1MDQwOSwxNTUzNDQz
-MDM4LDY1MTQ1NjY3MiwyMDg3MDI0NTYsLTE5MzA1MDY0NDUsNT
-A0NDU4NjQ4LC02MzQzMzM5NjksLTc4MDEwOTA3OCwxODM5NzYy
-ODU4XX0=
+eyJoaXN0b3J5IjpbMTg5ODcyNjIxMiwzNjA4OTAyODIsMTg0MT
+IwODgyMywtMTUwNzE0MDg1Nyw4Nzc4MzEzMDAsLTQ2NDE2MTU3
+OCwxNDkxOTU5MzI0LDEwMzgwMTIxMjMsMTk4MzE2NTM0MiwxMj
+g2NDUwMDQzLC0xOTE5Njc4MDcyLDIwODk4ODcyNjQsMTg1NTUw
+NDA5LDE1NTM0NDMwMzgsNjUxNDU2NjcyLDIwODcwMjQ1NiwtMT
+kzMDUwNjQ0NSw1MDQ0NTg2NDgsLTYzNDMzMzk2OSwtNzgwMTA5
+MDc4XX0=
 -->
